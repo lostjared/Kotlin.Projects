@@ -1,6 +1,8 @@
 # Kotlin.Projects
 Projects written in Kotlin
 
+Basically the Kotlin code consists of loading an embedded browser control and load a C++ WebAssembly game into the Android app.
+
 3D Breakout on Google Pixel:
 ![image](https://github.com/user-attachments/assets/f8e7e323-2229-477a-997a-bee7fb63c069)
 
